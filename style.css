@@ -1,0 +1,17 @@
+/*
+ selector {
+  property: value;
+ }
+*/
+
+body {
+  font-family: Georgia, Times, serif;
+  color: orange; 
+  width: 500px; 
+  margin: 0 auto;
+}
+
+#Intro {
+  font-size: 150%;
+  color: blue;
+}
